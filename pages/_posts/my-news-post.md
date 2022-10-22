@@ -1,6 +1,6 @@
 ---
-title: My Example Post
-date: 2016-05-20
+title: My News Post
+date: 2021-05-20
 layout: post
 ---
 
