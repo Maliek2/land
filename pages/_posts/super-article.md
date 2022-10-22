@@ -1,5 +1,5 @@
 ---
-title: Super article
+title: News Blog 
 layout: post
 date: 2021-05-18
 ---
