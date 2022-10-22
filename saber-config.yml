@@ -1,9 +1,9 @@
 theme: minima
 
 siteConfig:
-  url: https://example.com
+  url: https://adball.tech
   author: Author of This Site
-  email: author@your-domain.com
+  email: mail@adball.tech
   description: Write an awesome description for your new site here. You can edit this line in saber-config.yml. It will appear in your document head meta (for Google search results) site description.
 
 themeConfig:
@@ -13,8 +13,8 @@ themeConfig:
     - text: About
       link: /about.html
   social:
-    twitter: saber_land
-    github: egoist
+    twitter: 
+    github: Maliek2
     rss: true
 
 plugins:
